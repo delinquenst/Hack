@@ -9616,7 +9616,7 @@ Players.LocalPlayer.OnTeleport:Connect(function(State)
     if State == Enum.TeleportState.Started then
         if KeepTopYield and queueteleport then
             queueteleport(
-                "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeTY/infiniteyield/master/source'))()")
+                "https://raw.githubusercontent.com/delinquenst/Hack/main/T0PK3K%20Yield'))()")
         end
     end
 end)
